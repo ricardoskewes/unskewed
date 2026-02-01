@@ -1,0 +1,9 @@
+{
+  "name": "unskewedOS",
+  "description": "A high-stakes, AI-powered investigation platform for managing complex multi-party testimonies, detecting contradictions, and converging on the truth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
